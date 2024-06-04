@@ -1,0 +1,22 @@
+{
+	"name": "fmentor-3-column-plain",
+	"version": "1.0.0",
+	"description": "3-column preview card component using plain mode",
+	"main": "index.js",
+	"scripts": {
+		"lint": "prettier --write ."
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/al3xback/fmentor-3-column-plain.git"
+	},
+	"author": "alex <al3xback@gmail.com>",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/al3xback/fmentor-3-column-plain/issues"
+	},
+	"homepage": "https://github.com/al3xback/fmentor-3-column-plain#readme",
+	"devDependencies": {
+		"prettier": "^2.8.8"
+	}
+}
